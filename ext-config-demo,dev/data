@@ -1,0 +1,4 @@
+app:
+  name: name from git consul
+  author: author from git consul
+  motive: motive from git consul
