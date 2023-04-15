@@ -1,5 +1,5 @@
 license:
-  message: message from remote repo using consul -update
-  server: server from remote repo using consul - update
-  key: key from remote repo using consul - update
+  message: message from remote repo using consul -update again for dev
+  server: server from remote repo using consul - update again for dev
+  key: key from remote repo using consul - update again for dev
   issuer: Ashvani Chaudhary
