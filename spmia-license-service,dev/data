@@ -1,4 +1,0 @@
-license:
-  message: message from remote repo using consul
-  server: server from remote repo using consul
-  key: key from remote repo using consul
